@@ -1,0 +1,61 @@
+.body {
+    background-color: #E6E6FA;
+    color: black;
+}
+.card-container {
+    margin-top: 40px;
+}
+.form-group{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font:bold;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-control{
+    width:100px !important;
+    text-align-last: center;
+    align-items: center;
+}
+.card {
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+    border-radius: 30px;
+    background-color: #DDA0DD;
+}
+.card-title {
+    font-weight: bold;
+    color: purple;
+}
+.card-text {
+    color: black;
+}
+#cardr{
+    color:green;
+}
+#cardd{
+    color:red;
+}
+.card-icon {
+    font-size: 50px;
+    color: #4CAF50;
+}
+.card-body {
+    text-align: center;
+    background-color: #CBC3E3;
+    
+}
+.navbar {
+    background-color: purple;
+    color: #ffffff;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.btn-primary {
+    background-color: #FF9800;
+    border-color: #FF9800;
+}
